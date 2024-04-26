@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory_tree>
+    <directory name="C:\Test" nfiles="1" size="43">
+        <directory name="C:\Test\TestSubdir1" nfiles="2" size="35">
+            <directory name="C:\Test\TestSubdir1\Helooo" nfiles="1" size="9">
+            </directory>
+            <directory name="C:\Test\TestSubdir1\Nova mapa" nfiles="0" size="0">
+            </directory>
+        </directory>
+        <directory name="C:\Test\TestSubdirr2" nfiles="0" size="0">
+        </directory>
+    </directory>
+</directory_tree>
